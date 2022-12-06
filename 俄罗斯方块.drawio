@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T11:31:28.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="7iz4YZYhyAVnJnOhwM3h" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T11:41:02.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="thFuZ9AURUMPSFQ_GaIm" version="20.6.0" type="github">
   <diagram id="5oXw0mRgHBzclAZyAbjB" name="第 1 页">
-    <mxGraphModel dx="1118" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="320" width="200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="F8sjzibDddwQlHmZez1S-8" value="800*600" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F8sjzibDddwQlHmZez1S-10" value="SCORE&lt;br&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;69&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="610" width="80" height="110" as="geometry" />
@@ -184,8 +184,8 @@
         <mxCell id="F8sjzibDddwQlHmZez1S-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rotation=-180;" parent="F8sjzibDddwQlHmZez1S-73" vertex="1">
           <mxGeometry y="20" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F8sjzibDddwQlHmZez1S-89" value="SCORE&lt;br&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;71&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="F8sjzibDddwQlHmZez1S-89" value="SCORE&lt;br&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;71&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="600" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F8sjzibDddwQlHmZez1S-100" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;P2 IS WINNER!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="240" height="80" as="geometry" />
