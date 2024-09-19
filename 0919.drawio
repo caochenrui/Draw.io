@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="第 1 页" id="DkG5lrlVhWnagV_qCntW">
-    <mxGraphModel>
+    <mxGraphModel dx="574" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a b c : Nat&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;⊢ a + (b + c) = a + c + b&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-vV7yuwbjHDdTYp1xRhi-4" target="-vV7yuwbjHDdTYp1xRhi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a b c : Nat&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;⊢ a + (b + c) = a + c + b&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-vV7yuwbjHDdTYp1xRhi-6" target="-vV7yuwbjHDdTYp1xRhi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;rw [add_comm b]&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-9" value="&lt;div&gt;state_before：原目标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-10" value="&lt;div&gt;state_after：新目标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-vV7yuwbjHDdTYp1xRhi-11" value="&lt;div&gt;tactic：作用于目标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
